@@ -1,0 +1,57 @@
+1. Given Employee class which contains attributes like name, id and salary and we have added the employee in employeelist find employee which is having maximum or highest salary using java 8 streams.
+2. What is singleton class and write example for singleton class 
+3. Explain Hiberenate mappings both unidirection and bidirectional
+4. Explain spring bean scopes 
+5. Explain spring bean loading stategies
+6. what is cyclic method in thread 
+7. what is deadlock
+8. *** Explain Internal working of hashmap
+9. Diff between pathvariable and request param 
+10. WAP to find first non reapeated charcter from given string 
+11. WAP Print 1 to 10 numbers using lamda java 8
+12. Explain spring bean lifecycle
+13. Explain transaction management in spring boot i.e. @transactional annotation 
+14. WAP java stream to find max element from given list of integergs 
+15. How to connect two databases from spring boot 
+16. WAP using java8 stream to filter non prime numbers 
+17. *** Explain internal working of spring boot
+18. What is spring initilizer 
+19. Diff between producer and consumer 
+20. Can we overload static or private method 
+21. Why always we strore a password in char array and not in string
+22. How to write immutable class with mutable objects in it 
+23. Why wait(), notify(), notifyall() methods are in object class
+24. Diff between delete and truncate 
+25. what are joins and  cross join 
+26. WAP in java 8 to sort empolyee list based on firstname and lastname 
+27. String is threadsafe or not 
+28. How to inject prototype bean in singleton and what is behaviour of prototype bean and how can we avoid it 
+29. WAP to find all character and its count in the given string both using simple java and java 8 
+30. WAP to find duplicates from list using java 8
+31. WAP to find factorial using recursion
+32. WAP to swap variable without using third variable 
+33. How to implement custom exception
+34. How to handle global exception using spring boot 
+35. How to implement swagger 
+36. Write Spring boot demo crud 
+37. Find second highest salary using sql 
+38. Diff between get and load 
+39. Diff between soap and rest 
+40. diff between save and persisit
+41. diff between merge and update
+42. Diff between fail safe and fail fast 
+43. What is concurrent collections
+44. Describe functional interfaces
+45. Diff between intermediate and terminal operation in streams
+46. What are design patterns 
+47. differce between bean and component 
+48. how to handle 502 badgateway
+49. What executor framework in thread 
+50. What is SOLID principles of java 
+51. Diff between put and patch methods
+51. Diff between getmapping and requestmapping 
+52. what annotations are used to primary key and forien key
+
+
+
+ 
